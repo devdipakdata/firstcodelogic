@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppFlight", "ConsoleAppFlight\ConsoleAppFlight.csproj", "{7A9FCC34-F692-42BC-BA51-E65C8D35BF24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelFlights", "TravelFlights\TravelFlights.csproj", "{1EDD3339-2B46-4671-9F1B-8396BBC3908F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A9FCC34-F692-42BC-BA51-E65C8D35BF24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9FCC34-F692-42BC-BA51-E65C8D35BF24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9FCC34-F692-42BC-BA51-E65C8D35BF24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9FCC34-F692-42BC-BA51-E65C8D35BF24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EDD3339-2B46-4671-9F1B-8396BBC3908F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EDD3339-2B46-4671-9F1B-8396BBC3908F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EDD3339-2B46-4671-9F1B-8396BBC3908F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EDD3339-2B46-4671-9F1B-8396BBC3908F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F38EF2C6-3407-44FE-8568-CA4C6754CB6A}
+	EndGlobalSection
+EndGlobal
