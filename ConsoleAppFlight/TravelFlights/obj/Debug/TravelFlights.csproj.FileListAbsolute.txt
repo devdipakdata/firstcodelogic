@@ -1,0 +1,5 @@
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\TravelFlights\bin\Debug\TravelFlights.dll
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\TravelFlights\bin\Debug\TravelFlights.pdb
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\TravelFlights\obj\Debug\TravelFlights.csproj.CoreCompileInputs.cache
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\TravelFlights\obj\Debug\TravelFlights.dll
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\TravelFlights\obj\Debug\TravelFlights.pdb

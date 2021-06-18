@@ -1,0 +1,10 @@
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\ConsoleAppFlight\bin\Debug\ConsoleAppFlight.exe.config
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\ConsoleAppFlight\bin\Debug\ConsoleAppFlight.exe
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\ConsoleAppFlight\bin\Debug\ConsoleAppFlight.pdb
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\ConsoleAppFlight\bin\Debug\TravelFlights.dll
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\ConsoleAppFlight\bin\Debug\TravelFlights.pdb
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\ConsoleAppFlight\obj\Debug\ConsoleAppFlight.csprojAssemblyReference.cache
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\ConsoleAppFlight\obj\Debug\ConsoleAppFlight.csproj.CoreCompileInputs.cache
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\ConsoleAppFlight\obj\Debug\ConsoleAppFlight.csproj.CopyComplete
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\ConsoleAppFlight\obj\Debug\ConsoleAppFlight.exe
+C:\Users\Somu\dipaklocal-repo\ConsoleAppFlight\ConsoleAppFlight\obj\Debug\ConsoleAppFlight.pdb

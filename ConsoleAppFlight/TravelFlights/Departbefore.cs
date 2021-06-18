@@ -12,6 +12,8 @@ namespace TravelFlights
     public class Departbefore : IFlights
     {
         private readonly DateTime _depBefore;
+
+        private readonly String testdata;
         public Departbefore(DateTime depBefore )
         {
             _depBefore = depBefore;
