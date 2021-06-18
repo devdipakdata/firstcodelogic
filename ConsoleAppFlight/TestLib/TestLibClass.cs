@@ -7,7 +7,7 @@ namespace TestLib
     /// 
     /// class 
     /// </summary>
-    public class TestLib
+    public class TestLibClass
     {
         private int number;
         private string _datavalue;
