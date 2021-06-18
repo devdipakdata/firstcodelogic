@@ -2,7 +2,16 @@
 
 namespace TestLib
 {
-    public class Class1
+
+    /// <summary>
+    /// 
+    /// class 
+    /// </summary>
+    public class TestLib
     {
+        private int number;
+        private string _datavalue;
+
+
     }
 }
